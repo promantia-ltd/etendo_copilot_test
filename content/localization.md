@@ -127,7 +127,7 @@ Go to the Business Partner window  under GSTIN child tab add the GSTIN number, G
 GSTIN now represents that Business Partner is registered with the government. If BP is having GSTIN, on the header the GST category field has to be selected as **Registered Regular. **Registered BP will fall under the B2B category of GSTR-1 report. \
 
 
-![Image 3](/images/PnT_Image_3.png)
+![/images/PnT_Image_3.png](/images/PnT_Image_3.png)
 
 After saving the data of the GSTIN tab, configure the saved GSTIN in Business Partner- Location/Address.  As shown in the below image.
 
